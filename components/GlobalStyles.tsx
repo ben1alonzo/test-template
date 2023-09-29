@@ -14,17 +14,17 @@ export const GlobalStyle = createGlobalStyle`
 .next-light-theme {
   --background: 251,251,253;
   --secondBackground: 255,255,255;
-  --text: 1,2,82;
-  --textSecondary: 1,2,82;
+  --text: 10,18,30;
+  --textSecondary: 255,255,255;
   --primary: 22,115,255; 
   --secondary: 10,18,30;
   --tertiary: 231,241,251;
-  --cardBackground: 1,2,82;
-  --inputBackground: 21,2,82;
-  --navbarBackground: 1,2,82;
+  --cardBackground: 255,255,255;
+  --inputBackground: 255,255,255;
+  --navbarBackground: 255,255,255;
   --modalBackground: 251,251,253;
   --errorColor: 207,34,46;
-  --logoColor: #FFFFFF;
+  --logoColor: #243A5A;
 }
 
 .next-dark-theme {
